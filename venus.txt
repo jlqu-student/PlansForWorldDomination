@@ -1,3 +1,5 @@
 Venus is an alright base but it is very hot.
 I think so too
 This is a happy line, full of joy.
+I am typing in my own file?
+I am now trying to fix the conflict.
